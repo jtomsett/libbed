@@ -1,0 +1,28 @@
+{
+  "name": "libbed",
+  "version": "0.0.1",
+  "description": "crazy word play",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jayttee/libbed.git"
+  },
+  "author": "James Tomsett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jayttee/libbed/issues"
+  },
+  "homepage": "https://github.com/Jayttee/libbed",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "cookie-parser": "^1.3.3",
+    "debug": "^2.1.0",
+    "ejs": "^1.0.0",
+    "express": "^4.10.6",
+    "mongojs": "^0.18.0",
+    "morgan": "^1.5.0"
+  }
+}
